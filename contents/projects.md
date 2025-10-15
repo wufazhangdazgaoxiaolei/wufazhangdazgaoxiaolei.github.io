@@ -1,4 +1,3 @@
-#### Projects
 
 - <strong>OceanAI - RAG Enterprise Knowledge Base System</strong>\
 <strong>Introduction:</strong> OceanAI tackles data silos at The First Institute of Oceanography by building a RAG-powered knowledge base. It processes multi-source data like satellite imagery to enable intelligent document management and Q&A. [[Code]](https://github.com/wufazhangdazgaoxiaolei/TGRS-CEF_CL-main)
