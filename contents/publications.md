@@ -1,16 +1,11 @@
 #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Y. Song</strong>, S. Fu, H. Xin, W. Wang*, P. Ren, B. Liu, W. Ou, and D. Tao. Evolving Classifiers with Background Suppression Transformer for Open-set Long-tailed Class-incremental Remote Sensing Scene Classification. <strong>IEEE Transactions on Multimedia.</strong> 
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- W. Wang, <strong>Y. Song</strong>, J. Wang*, S. Fu, P. Ren, H. Qin, W. Li, and W. Ou (2025). Continually Evolved Feature and Classifiers Learning for Long-tailed Class-incremental Remote Sensing Scene Classification. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://ieeexplore.ieee.org/document/11114081) [[Code]](https://github.com/wufazhangdazgaoxiaolei/TGRS-CEF_CL-main)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>宋雨</strong>, 单柏*, 程旭扬, 于佳禾, 乔方圆 (2022). 基于zSpace的海洋生物认知及可视化研究与探讨. <strong>海峡科技与产业</strong>. [[Paper]](https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjUwMTE2MTYzNjE0EhBoeGtqeWN5MjAyMjA4MDI0GghsbHA3YTl5Nw%3D%3D)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 

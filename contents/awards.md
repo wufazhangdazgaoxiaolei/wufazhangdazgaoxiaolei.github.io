@@ -1,16 +1,18 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- National Scholarship for Graduate Student, 2025.
 
-- National Scholarship for Graduate Student, 2024.
+- Outstanding Graduate Award (UPC), 2025.
 
-- First-Prize Scholarship (CUMT), 2024.
+- Second-Prize Academic Scholarship (UPC), 2024.
 
-- First-Prize Scholarship (CUMT), 2023.
+- National Endeavor Scholarship (awarded consecutively for 3 years), 2020–2022.
 
-- Freshman Scholarship (CUMT), 2022.
+- Second Prize in Blue Bridge Cup Provincial Contest (Hebei Province), 2022.
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
+- Second Prize in National Finals of "Jingchuang Education Cup" Business Elite Challenge, 2022.
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+- Lead Principal Investigator of Innovation and Entrepreneurship Training Program (HEBAU, Project No. 2022055), 2022.
 
-- First-Prize Scholarship (CUMT), 2019.
+- Third Prize in College Student Programming Contest (Hebei Province), 2021.
+
+- Third Prize in the 2nd "Zhilian Cup" FinTech Application Skills Competition (Hebei Province), 2021.

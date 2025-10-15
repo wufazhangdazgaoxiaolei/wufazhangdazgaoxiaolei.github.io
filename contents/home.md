@@ -1,17 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![wufazhangdazgaoxiaolei](https://img.shields.io/badge/wufazhangdazgaoxiaolei-github-blue?logo=github)](https://github.com/wufazhangdazgaoxiaolei)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a Master's student in Artificial Intelligence at the School of Ocean and Space Information, China University of Petroleum (East China).
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: sy653565[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Artificial Intelligence, China University of Petroleum (East China), 2023—2026.\
+B.E., Computer Science and Technology, Hebei Agricultural University, 2019—2023.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Remote Sensing Scene Classification, Class-incremental Learning, Long-tail Distribution.
 
