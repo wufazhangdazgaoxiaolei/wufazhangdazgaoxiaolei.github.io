@@ -1,12 +1,12 @@
 
 
-[![wufazhangdazgaoxiaolei](https://img.shields.io/badge/wufazhangdazgaoxiaolei-github-blue?logo=github)](https://github.com/wufazhangdazgaoxiaolei)
+[![wufazhangdazgaoxiaolei](https://img.shields.io/badge/wufazhangdazgaoxiaolei-github-blue?logo=github)](https://github.com/wufazhangdazgaoxiaolei) <-Click to visit my GitHub homepage. 
 
 He is currently a Master's student in Artificial Intelligence at the School of Ocean and Space Information, China University of Petroleum (East China).
 
 #### Contact
 
-Email: sy653565[at]163.com
+Email: sy653565@163.com
 
 #### Education
 M.E., Artificial Intelligence, China University of Petroleum (East China), 2023—2026.\
